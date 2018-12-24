@@ -3,6 +3,14 @@
 ### How to run locally?
 Just run `./mvnw clean spring-boot:run`
 
+### Tech Stack
+- Java 8
+- SpringBoot 2.1.1.RELEASE
+- Maven 3.3.5
+- Caffeine
+- Swagger
+- Lombok
+
 ## APIs
 ```
 /add/{a}/{b}/{c}
