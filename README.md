@@ -3,6 +3,14 @@
 ### How to run locally?
 Just run `./mvnw clean spring-boot:run`
 
+## APIs
+```
+/add/{a}/{b}/{c}
+/subtract/{a}/{b}/{c}
+/multiply/{a}/{b}/{c}
+/divide/{a}/{b}
+```
+
 ### Swagger URL
 Go to `http://localhost:8080/calc/swagger-ui.html`
 
