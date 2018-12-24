@@ -1,4 +1,4 @@
-package com.tommy.test.component.calculator.usecase;
+package com.tommy.test.component.calculator.usecase.hash;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
